@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1>Hi 👋, I'm Azhar</h1>
-<p>I am a Full-Stack developer. I work as a Tech Lead in HCL Technologies, help our customers design and develop their applications on Azure.</p>
+<p>I am a computer science engineer and a full stack developer. I work as a Tech Lead in HCL Technologies, help our customers design and develop their applications on Azure.</p>
 
 [![GitHub Badge](https://img.shields.io/badge/-@azharvalley-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/azharvalley)](https://github.com/azharvalley)
 
