@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <h1>Hi 👋, I'm Azhar</h1>
-<p>I'm a computer science engineer, a full stack tech specialist, and a cloud developer. I help customers design and develop their applications leveraging Azure services.</p>
+<p>I'm a computer science engineer and a Microsoft Certified Azure Developer with expertise in Full-Stack software development.</p>
+
+<p>Being a cloud advocate, I love to build modern web applications leveraging azure services and micro-services. I help customers design and develop the applications leveraging azure services.</p>
 
 🔭 I’m currently working on an application leveraging azure cognitive services.
+
+🌱 I’m currently learning about powerful bots in Azure by integrating Azure Bot Services with Azure Cognitive Services API to create and serve intelligent bots.
 
 [![GitHub Badge](https://img.shields.io/badge/-@azharvalley-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/azharvalley)](https://github.com/azharvalley)
 
